@@ -43,7 +43,7 @@ SmartGPT is an **incredibly experimental** application. The goal is to unlock ma
 
 1. Install [`cargo`](https://doc.rust-lang.org/cargo/getting-started/installation.html), preferably the latest stable version.
 
-2. Clone the repository with `git clone https://github.com/Cormanz/smartgpt.git && cd smartgpt`.
+2. Clone the repository with `git clone https://github.com/devbluecomet/smartgpt.git && cd smartgpt`.
 
 3. Run it in release mode with `cargo run --release`. This will create a `config.yml` for you.
 
@@ -95,5 +95,5 @@ Autos can use a set of **tools** such as `google_search`, `browse_url`, etc. You
 
 `smartgpt` is available under the
 [MIT license](https://opensource.org/licenses/MIT). See
-[LICENSE](https://github.com/Cormanz/smartgpt/blob/main/LICENSE.md) for the full
+[LICENSE](https://github.com/devbluecomet/smartgpt/blob/main/LICENSE.md) for the full
 license text.
