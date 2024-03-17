@@ -43,13 +43,13 @@ SmartGPT is an **incredibly experimental** application. The goal is to unlock ma
 
 1. Install [`cargo`](https://doc.rust-lang.org/cargo/getting-started/installation.html), preferably the latest stable version.
 
-2. Clone the repository with `git clone https://github.com/devbluecomet/smartgpt.git && cd smartgpt`.
+2. Clone the repository with `git clone https://github.com/azuresphere7SmartGPT.git && cd SmartGPT`.
 
 3. Run it in release mode with `cargo run --release`. This will create a `config.yml` for you.
 
 4. Adjust the config to your liking, and execute it once again.
 
-If you want more information, or would like to use SmartGPT as a crate in your own projects, [read the documentation](https://corman.gitbook.io/smartgpt/installation).
+<br />
 
 # How SmartGPT Works
 
